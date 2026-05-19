@@ -60,6 +60,7 @@ flutter pub get
 # Connect your Firebase project
 
 Add your google-services.json to android/app/
+
 Add your GoogleService-Info.plist to ios/Runner/
 
 
