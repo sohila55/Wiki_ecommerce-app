@@ -12,8 +12,7 @@ A full-featured Flutter shopping app with Firebase backend
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![CUBIT:BLOC](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![BLoC](https://img.shields.io/badge/BLoC-Cubit-007ACC?style=for-the-badge&logoColor=white)
 
 </div>
 
