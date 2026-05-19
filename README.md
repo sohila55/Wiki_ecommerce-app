@@ -12,7 +12,7 @@ A full-featured Flutter shopping app with Firebase backend
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Bloc]([https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Cubit-BLoC-blue?style=for-the-badge))
+![CUBIT:BLOC]([https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Cubit-BLoC-blue?style=for-the-badge))
 
 
 </div>
@@ -52,7 +52,7 @@ Firebase project set up
 ### Installation
 
 # Clone the repo
-git clone https://github.com/sohila55/YOUR_REPO_NAME.git
+git clone https://github.com/sohila55/Wiki_ecommerce-app.git
 
 # Install dependencies
 
